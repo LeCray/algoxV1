@@ -1,0 +1,33 @@
+0	00:45:37.720	Compiling 'MACD Sample'
+0	00:45:37.721	Compiling 'Moving Average'
+0	00:45:41.785	Compiling 'Accelerator'
+0	00:45:41.786	Compiling 'Accumulation'
+0	00:45:41.786	Compiling 'Alligator'
+0	00:45:41.786	Compiling 'ATR'
+0	00:45:41.786	Compiling 'Awesome'
+0	00:45:41.786	Compiling 'Bands'
+0	00:45:41.786	Compiling 'Bears'
+0	00:45:41.786	Compiling 'Bulls'
+0	00:45:41.786	Compiling 'CCI'
+0	00:45:41.786	Compiling 'Custom Moving Averages'
+0	00:45:41.787	Compiling 'Heiken Ashi'
+0	00:45:41.787	Compiling 'Ichimoku'
+0	00:45:41.787	Compiling 'iExposure'
+0	00:45:41.787	Compiling 'MACD'
+0	00:45:41.787	Compiling 'Momentum'
+0	00:45:41.787	Compiling 'OsMA'
+0	00:45:41.787	Compiling 'Parabolic'
+0	00:45:41.787	Compiling 'RSI'
+0	00:45:41.787	Compiling 'Stochastic'
+0	00:45:41.787	Compiling 'ZigZag'
+0	00:45:41.788	Compiling 'SimplePanel'
+0	00:45:50.762	Compiling 'PeriodConverter'
+0	00:45:50.762	Compiling 'DLLSampleTester'
+0	00:45:50.763	Compiling 'PipeClient'
+0	00:45:50.763	Compiling 'PipeClientPure'
+0	00:45:55.127	Compiling 'stdlib'
+0	01:11:17.234	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	01:11:22.483	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	01:11:22.517	TheDaviesV2 EURUSD,H1: initialized
+0	01:15:17.409	TheDaviesV2 EURUSD,H1: uninit reason 9
+0	01:15:17.697	Expert TheDaviesV2 EURUSD,H1: removed
