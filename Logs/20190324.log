@@ -85,3 +85,7 @@
 0	02:13:27.557	lastmanstandingindicatorv11 EURUSD,M30: uninit reason 9
 0	02:13:27.822	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
 0	02:13:27.901	Custom indicator lastmanstandingindicatorv11 EURUSD,M30: removed
+0	02:13:34.725	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	02:13:34.789	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	02:13:34.835	Custom indicator lastmanstandingindicatorv11 EURUSD,M30: loaded successfully
+0	02:13:34.860	lastmanstandingindicatorv11 EURUSD,M30: initialized
