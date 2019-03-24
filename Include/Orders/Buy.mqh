@@ -27,12 +27,13 @@ void Buy(
 
     if(minorSwingHighPrices[0]>majorSwingHighPrices[0]){ //Finding the highest recent price
         recentHigh = High[iHighest(NULL, 5, MODE_HIGH, minorSwingHighBars[0]+1, 0)];
-        Print("recentHigh: ",recentHigh);
+        //Print("recentHigh: ",recentHigh);
     } else {
         recentHigh = High[iHighest(NULL, 5, MODE_HIGH, majorSwingHighBars[0]+1, 0)];
-        Print("recentHigh: ",recentHigh);
+        //Print("recentHigh: ",recentHigh);
     }
 
+    //Must be making Higher Lows
     bool lowCondition_1 = minorSwingLowPrices[0] > minorSwingLowPrices[1];
     bool lowCondition_2 = minorSwingLowPrices[0] > majorSwingLowPrices[1];
     bool lowCondition_3 = minorSwingLowPrices[0] > majorSwingLowPrices[0];
@@ -47,7 +48,7 @@ void Buy(
                 int recentHighBar_2 = iHighest(NULL, 5, MODE_HIGH, majorSwingHighBars[0]+1, 0);	//Finds bar index/location of the recentHigh (from 0 to majorSwingHighBars[0]+1)
 
                 if (recentHighBar_1 != 0 && recentHighBar_2 != 0) { //Making sure calc is not run on the bar that is currently making the highest high
-                    if(minorSwingLowBars[0] > recentHighBar_1 && minorSwingLowBars[0] > recentHighBar_2) { //Making sure calc is based on a low that is BEHIND the recentHigh bar
+                    if(minorSwingLowBars[0] > recentHighBar_1 && minorSwingLowBars[0] > recentHighBar_2) { //Making sure calc is run on a BASE LOW that is BEHIND the recentHigh bar
 
                         double swing = recentHigh - minorSwingLowPrices[0];
 
@@ -69,11 +70,10 @@ void Buy(
                                         int type = 225;
                                         ArrowCreate(dojiArrow, time, price2, clr, size, type); //This function is defined in ArrowCreate.mqh
 
-
                                         if(orders == 0) { //Making sure only 1 order is open at a time
                                             double minstoplevel = MarketInfo(0,MODE_STOPLEVEL);
                                             double risk = (minstoplevel + stoplossVar)*Point();
-                                            double reward = risk*2;
+                                            double reward = risk*3;
                                             double stoploss = NormalizeDouble(Bid - risk, Digits()); //Turning pips into point size i.e 2 pips = 0.0002 on price axis
                                             double takeprofit = NormalizeDouble(Ask + reward, Digits()); //Turning pips into point size i.e 2 pips = 0.0002 on price axis
 

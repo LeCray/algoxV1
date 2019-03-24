@@ -89,3 +89,614 @@
 0	02:13:34.789	lastmanstandingindicatorv11 EURUSD,H1: initialized
 0	02:13:34.835	Custom indicator lastmanstandingindicatorv11 EURUSD,M30: loaded successfully
 0	02:13:34.860	lastmanstandingindicatorv11 EURUSD,M30: initialized
+0	02:53:30.153	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	02:53:30.200	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	02:53:30.275	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	02:53:31.668	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	02:53:31.706	TheDaviesV2 EURUSD,H1: initialized
+0	11:13:02.965	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 4
+0	11:13:02.965	TheDaviesV2 EURUSD,H1: uninit reason 4
+0	11:13:02.973	Expert TheDaviesV2 EURUSD,H1: removed
+0	11:13:02.979	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	11:55:57.916	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	11:55:57.916	lastmanstandingindicatorv11 EURUSD,M30: uninit reason 9
+0	11:55:58.084	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	11:55:58.110	Custom indicator lastmanstandingindicatorv11 EURUSD,M30: removed
+0	11:56:12.177	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	11:56:12.201	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	11:56:12.238	Custom indicator lastmanstandingindicatorv11 EURUSD,M30: loaded successfully
+0	11:56:12.261	lastmanstandingindicatorv11 EURUSD,M30: initialized
+0	11:56:12.468	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	11:56:12.490	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	11:56:12.691	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	11:56:14.114	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	11:56:14.178	TheDaviesV2 EURUSD,H1: initialized
+0	11:57:31.281	TheDaviesV2 EURUSD,H1: uninit reason 3
+0	11:57:31.283	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 3
+0	11:57:31.283	lastmanstandingindicatorv11 EURUSD,M30: initialized
+0	11:57:31.284	TheDaviesV2 EURUSD,M30: initialized
+0	11:58:00.704	TheDaviesV2 EURUSD,M30: uninit reason 3
+0	11:58:00.706	lastmanstandingindicatorv11 EURUSD,M30: uninit reason 3
+0	11:58:00.706	lastmanstandingindicatorv11 EURUSD,M15: initialized
+0	11:58:00.707	TheDaviesV2 EURUSD,M15: initialized
+0	11:59:23.305	TheDaviesV2 EURUSD,M15: uninit reason 3
+0	11:59:23.307	lastmanstandingindicatorv11 EURUSD,M15: uninit reason 3
+0	11:59:23.307	lastmanstandingindicatorv11 EURUSD,M30: initialized
+0	11:59:23.307	TheDaviesV2 EURUSD,M30: initialized
+0	12:00:12.205	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	12:00:12.205	lastmanstandingindicatorv11 EURUSD,M30: uninit reason 9
+0	12:00:12.205	TheDaviesV2 EURUSD,M30: uninit reason 9
+0	12:00:12.269	lastmanstandingindicatorv11 EURUSD,M30: uninit reason 9
+0	12:00:12.340	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	12:00:12.357	Custom indicator lastmanstandingindicatorv11 EURUSD,M30: removed
+0	12:00:12.411	Expert TheDaviesV2 EURUSD,M30: removed
+0	12:00:12.417	Custom indicator lastmanstandingindicatorv11 EURUSD,M30: removed
+0	12:00:19.306	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	12:00:19.338	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	12:00:19.374	Custom indicator lastmanstandingindicatorv11 EURUSD,M30: loaded successfully
+0	12:00:19.397	lastmanstandingindicatorv11 EURUSD,M30: initialized
+0	12:00:19.440	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	12:00:19.464	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	12:02:14.432	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	12:02:14.432	lastmanstandingindicatorv11 EURUSD,M30: uninit reason 9
+0	12:02:14.432	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	12:02:14.520	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	12:02:14.586	Custom indicator lastmanstandingindicatorv11 EURUSD,M30: removed
+0	12:02:14.610	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	12:02:21.694	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	12:02:21.718	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	12:02:21.755	Custom indicator lastmanstandingindicatorv11 EURUSD,M30: loaded successfully
+0	12:02:21.780	lastmanstandingindicatorv11 EURUSD,M30: initialized
+0	12:02:21.848	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	12:02:21.870	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	12:03:16.376	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 3
+0	12:03:16.376	lastmanstandingindicatorv11 EURUSD,M30: initialized
+0	12:03:19.936	lastmanstandingindicatorv11 EURUSD,M30: uninit reason 3
+0	12:03:19.936	lastmanstandingindicatorv11 EURUSD,M15: initialized
+0	12:03:58.194	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	12:03:58.194	lastmanstandingindicatorv11 EURUSD,M30: uninit reason 9
+0	12:03:58.194	lastmanstandingindicatorv11 EURUSD,M15: uninit reason 9
+0	12:03:58.326	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	12:03:58.333	Custom indicator lastmanstandingindicatorv11 EURUSD,M30: removed
+0	12:03:58.348	Custom indicator lastmanstandingindicatorv11 EURUSD,M15: removed
+0	12:04:41.091	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	12:04:41.114	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	12:04:41.151	Custom indicator lastmanstandingindicatorv11 EURUSD,M30: loaded successfully
+0	12:04:41.183	lastmanstandingindicatorv11 EURUSD,M30: initialized
+0	12:04:41.224	Custom indicator lastmanstandingindicatorv11 EURUSD,M15: loaded successfully
+0	12:04:41.247	lastmanstandingindicatorv11 EURUSD,M15: initialized
+0	12:04:41.486	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	12:04:41.508	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	12:04:41.695	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	12:04:44.682	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	12:04:44.745	TheDaviesV2 EURUSD,H1: initialized
+0	12:06:13.032	TheDaviesV2 EURUSD,H1: uninit reason 3
+0	12:06:13.034	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 3
+0	12:06:13.034	lastmanstandingindicatorv11 EURUSD,M30: initialized
+0	12:06:13.035	TheDaviesV2 EURUSD,M30: initialized
+0	12:06:31.456	TheDaviesV2 EURUSD,M30: uninit reason 3
+0	12:06:31.458	lastmanstandingindicatorv11 EURUSD,M30: uninit reason 3
+0	12:06:31.458	lastmanstandingindicatorv11 EURUSD,M15: initialized
+0	12:06:31.459	TheDaviesV2 EURUSD,M15: initialized
+0	12:06:43.767	TheDaviesV2 EURUSD,M15: uninit reason 3
+0	12:06:43.769	lastmanstandingindicatorv11 EURUSD,M15: uninit reason 3
+0	12:06:43.769	lastmanstandingindicatorv11 EURUSD,M30: initialized
+0	12:06:43.772	TheDaviesV2 EURUSD,M30: initialized
+0	12:08:48.191	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	12:08:48.191	lastmanstandingindicatorv11 EURUSD,M30: uninit reason 9
+0	12:08:48.191	lastmanstandingindicatorv11 EURUSD,M15: uninit reason 9
+0	12:08:48.191	TheDaviesV2 EURUSD,M30: uninit reason 9
+0	12:08:48.275	lastmanstandingindicatorv11 EURUSD,M30: uninit reason 9
+0	12:08:48.343	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	12:08:48.359	Custom indicator lastmanstandingindicatorv11 EURUSD,M30: removed
+0	12:08:48.364	Custom indicator lastmanstandingindicatorv11 EURUSD,M15: removed
+0	12:08:48.412	Expert TheDaviesV2 EURUSD,M30: removed
+0	12:08:48.421	Custom indicator lastmanstandingindicatorv11 EURUSD,M30: removed
+0	12:10:07.329	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	12:10:07.354	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	12:10:07.397	Custom indicator lastmanstandingindicatorv11 EURUSD,M30: loaded successfully
+0	12:10:07.431	lastmanstandingindicatorv11 EURUSD,M30: initialized
+0	12:10:07.497	Custom indicator lastmanstandingindicatorv11 EURUSD,M15: loaded successfully
+0	12:10:07.524	lastmanstandingindicatorv11 EURUSD,M15: initialized
+0	12:10:07.578	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	12:10:07.603	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	12:10:07.844	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	12:10:07.869	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	12:10:08.094	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	12:10:09.147	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	12:10:09.279	TheDaviesV2 EURUSD,H1: initialized
+0	14:54:39.226	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 4
+0	14:54:39.226	TheDaviesV2 EURUSD,H1: uninit reason 4
+1	14:54:39.269	TheDaviesV2 EURUSD,H1: Abnormal termination
+0	14:54:39.276	Expert TheDaviesV2 EURUSD,H1: removed
+0	14:54:39.285	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:08:36.479	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:08:36.479	lastmanstandingindicatorv11 EURUSD,M30: uninit reason 9
+0	15:08:36.479	lastmanstandingindicatorv11 EURUSD,M15: uninit reason 9
+0	15:08:36.479	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:08:36.796	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:08:36.911	Custom indicator lastmanstandingindicatorv11 EURUSD,M30: removed
+0	15:08:36.924	Custom indicator lastmanstandingindicatorv11 EURUSD,M15: removed
+0	15:08:36.940	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:08:44.092	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:08:44.117	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:08:44.154	Custom indicator lastmanstandingindicatorv11 EURUSD,M30: loaded successfully
+0	15:08:44.180	lastmanstandingindicatorv11 EURUSD,M30: initialized
+0	15:08:44.225	Custom indicator lastmanstandingindicatorv11 EURUSD,M15: loaded successfully
+0	15:08:44.248	lastmanstandingindicatorv11 EURUSD,M15: initialized
+0	15:08:44.296	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:08:44.318	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:08:47.712	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:08:47.712	lastmanstandingindicatorv11 EURUSD,M30: uninit reason 9
+0	15:08:47.712	lastmanstandingindicatorv11 EURUSD,M15: uninit reason 9
+0	15:08:47.712	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:08:47.871	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:08:47.896	Custom indicator lastmanstandingindicatorv11 EURUSD,M30: removed
+0	15:08:47.917	Custom indicator lastmanstandingindicatorv11 EURUSD,M15: removed
+0	15:08:47.934	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:10:47.191	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:10:47.214	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:10:47.252	Custom indicator lastmanstandingindicatorv11 EURUSD,M30: loaded successfully
+0	15:10:47.274	lastmanstandingindicatorv11 EURUSD,M30: initialized
+0	15:10:47.319	Custom indicator lastmanstandingindicatorv11 EURUSD,M15: loaded successfully
+0	15:10:47.341	lastmanstandingindicatorv11 EURUSD,M15: initialized
+0	15:10:47.386	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:10:47.408	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:10:47.599	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:10:47.621	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:10:47.809	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	15:10:50.482	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	15:10:50.514	TheDaviesV2 EURUSD,H1: initialized
+0	15:10:59.186	lastmanstandingindicatorv11 EURUSD,M30: uninit reason 4
+0	15:10:59.191	Custom indicator lastmanstandingindicatorv11 EURUSD,M30: removed
+0	15:11:00.153	lastmanstandingindicatorv11 EURUSD,M15: uninit reason 4
+0	15:11:00.157	Custom indicator lastmanstandingindicatorv11 EURUSD,M15: removed
+0	15:11:01.137	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 4
+0	15:11:01.140	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:11:02.273	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 4
+0	15:11:02.273	TheDaviesV2 EURUSD,H1: uninit reason 4
+0	15:11:02.332	Expert TheDaviesV2 EURUSD,H1: removed
+0	15:11:02.339	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:12:10.309	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:12:10.508	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:12:19.069	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:12:19.092	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:12:19.347	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:12:19.376	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:12:19.545	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	15:12:24.923	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	15:12:24.957	TheDaviesV2 EURUSD,H1: initialized
+0	15:15:18.400	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:15:18.400	TheDaviesV2 EURUSD,H1: uninit reason 9
+0	15:15:18.542	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:15:18.726	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:15:18.891	Expert TheDaviesV2 EURUSD,H1: removed
+0	15:15:18.903	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:15:38.172	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:15:38.195	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:15:38.241	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:15:38.265	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:15:38.404	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:15:38.427	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:15:38.593	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	15:15:40.487	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	15:15:40.526	TheDaviesV2 EURUSD,H1: initialized
+0	15:25:45.531	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:25:45.531	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:25:45.531	TheDaviesV2 EURUSD,H1: uninit reason 9
+0	15:25:45.675	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:25:45.734	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:25:45.751	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:25:45.808	Expert TheDaviesV2 EURUSD,H1: removed
+0	15:25:45.813	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:25:53.804	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:25:53.828	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:25:53.863	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:25:53.886	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:25:53.932	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:25:53.954	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:25:54.162	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:25:54.184	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:25:54.304	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	15:25:57.462	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	15:25:57.510	TheDaviesV2 EURUSD,H1: initialized
+0	15:36:34.286	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:36:34.286	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:36:34.286	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:36:34.286	TheDaviesV2 EURUSD,H1: uninit reason 9
+0	15:36:34.448	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:36:34.625	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:36:34.640	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:36:34.704	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:36:34.893	Expert TheDaviesV2 EURUSD,H1: removed
+0	15:36:34.905	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:36:43.037	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:36:43.061	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:36:43.096	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:36:43.119	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:36:43.155	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:36:43.177	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:36:43.224	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:36:43.246	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:41:00.796	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:41:00.831	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:41:00.906	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	15:41:02.323	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	15:41:02.355	TheDaviesV2 EURUSD,H1: initialized
+0	15:41:31.984	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:41:31.984	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:41:31.984	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:41:31.984	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:41:31.984	TheDaviesV2 EURUSD,H1: uninit reason 9
+0	15:41:32.107	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:41:32.205	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:41:32.213	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:41:32.220	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:41:32.250	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:41:32.336	Expert TheDaviesV2 EURUSD,H1: removed
+0	15:41:32.344	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:41:41.155	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:41:41.178	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:41:41.217	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:41:41.240	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:41:41.279	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:41:41.302	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:41:41.343	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:41:41.366	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:41:41.415	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:41:41.437	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:45:08.022	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:45:08.022	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:45:08.022	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:45:08.022	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:45:08.022	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:45:08.256	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:45:08.276	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:45:08.287	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:45:08.295	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:45:08.345	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:45:17.348	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:45:17.372	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:45:17.404	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:45:17.429	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:45:17.463	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:45:17.486	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:45:17.520	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:45:17.545	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:45:17.579	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:45:17.601	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:46:00.269	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:46:00.269	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:46:00.269	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:46:00.269	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:46:00.269	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:46:00.483	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:46:00.494	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:46:00.503	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:46:00.510	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:46:00.559	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:46:09.355	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:46:09.385	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:46:09.423	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:46:09.444	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:46:09.482	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:46:09.505	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:46:09.543	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:46:09.565	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:46:09.605	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:46:09.626	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:46:09.780	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:46:09.801	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:46:09.977	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	15:46:52.830	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	15:46:52.865	TheDaviesV2 EURUSD,H1: initialized
+0	15:49:14.717	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:49:14.717	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:49:14.717	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:49:14.717	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:49:14.717	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:49:14.717	TheDaviesV2 EURUSD,H1: uninit reason 9
+0	15:49:14.808	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:49:14.882	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:49:14.887	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:49:14.893	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:49:14.899	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:49:14.919	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:49:14.977	Expert TheDaviesV2 EURUSD,H1: removed
+0	15:49:14.982	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:49:23.188	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:49:23.213	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:49:23.251	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:49:23.274	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:49:23.309	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:49:23.332	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:49:23.369	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:49:23.392	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:49:23.428	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:49:23.450	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:49:23.493	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:49:23.514	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:49:23.682	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:49:23.704	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:49:23.907	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	15:49:26.125	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	15:49:26.157	TheDaviesV2 EURUSD,H1: initialized
+0	15:49:30.507	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 4
+0	15:49:30.511	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:49:31.645	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 4
+0	15:49:31.648	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:49:32.715	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 4
+0	15:49:32.718	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:49:33.702	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 4
+0	15:49:33.705	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:49:34.586	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 4
+0	15:49:34.589	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:49:35.690	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 4
+0	15:49:35.690	TheDaviesV2 EURUSD,H1: uninit reason 4
+0	15:49:35.820	Expert TheDaviesV2 EURUSD,H1: removed
+0	15:49:35.825	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:49:38.556	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 4
+0	15:49:38.559	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:55:00.795	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:55:00.820	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:55:00.995	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	15:55:47.845	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	15:55:47.881	TheDaviesV2 EURUSD,H1: initialized
+0	15:59:39.341	TheDaviesV2 EURUSD,H1: uninit reason 9
+0	15:59:39.475	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	15:59:39.567	Expert TheDaviesV2 EURUSD,H1: removed
+0	15:59:39.572	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	15:59:51.339	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:59:51.387	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:59:51.634	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	15:59:51.669	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	15:59:51.896	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	15:59:53.290	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	15:59:53.326	TheDaviesV2 EURUSD,H1: initialized
+0	16:03:34.845	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	16:03:34.845	TheDaviesV2 EURUSD,H1: uninit reason 9
+0	16:03:34.993	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	16:03:35.060	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	16:03:35.117	Expert TheDaviesV2 EURUSD,H1: removed
+0	16:03:35.125	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	16:04:09.891	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	16:04:09.914	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	16:04:09.960	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	16:04:09.983	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	16:04:10.121	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	16:04:10.142	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	16:04:10.357	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	16:04:13.585	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	16:04:13.623	TheDaviesV2 EURUSD,H1: initialized
+0	16:15:25.529	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	16:15:25.529	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	16:15:25.529	TheDaviesV2 EURUSD,H1: uninit reason 9
+0	16:15:25.647	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	16:15:25.706	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	16:15:25.722	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	16:15:25.774	Expert TheDaviesV2 EURUSD,H1: removed
+0	16:15:25.779	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	16:15:36.079	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	16:15:36.102	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	16:15:36.139	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	16:15:36.161	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	16:15:36.206	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	16:15:36.229	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	16:15:36.366	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	16:15:36.388	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	16:15:36.560	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	16:15:40.670	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	16:15:40.708	TheDaviesV2 EURUSD,H1: initialized
+0	16:16:21.058	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 4
+0	16:16:21.062	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	16:16:21.792	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 4
+0	16:16:21.796	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	16:16:22.673	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 4
+0	16:16:22.677	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	16:17:34.347	TheDaviesV2 EURUSD,H1: uninit reason 3
+0	16:17:34.349	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 3
+0	16:17:34.349	lastmanstandingindicatorv11 EURUSD,M30: initialized
+0	16:17:34.350	TheDaviesV2 EURUSD,M30: initialized
+0	16:17:51.747	TheDaviesV2 EURUSD,M30: uninit reason 3
+0	16:17:51.749	lastmanstandingindicatorv11 EURUSD,M30: uninit reason 3
+0	16:17:51.749	lastmanstandingindicatorv11 EURUSD,M15: initialized
+0	16:17:51.750	TheDaviesV2 EURUSD,M15: initialized
+0	16:20:17.666	TheDaviesV2 EURUSD,M15: uninit reason 9
+0	16:20:17.822	lastmanstandingindicatorv11 EURUSD,M15: uninit reason 9
+0	16:20:17.887	Expert TheDaviesV2 EURUSD,M15: removed
+0	16:20:17.892	Custom indicator lastmanstandingindicatorv11 EURUSD,M15: removed
+0	16:20:26.255	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	16:20:26.279	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	16:20:26.385	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	16:20:26.409	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	16:20:26.585	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	16:20:29.650	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	16:20:29.688	TheDaviesV2 EURUSD,H1: initialized
+0	16:21:32.809	TheDaviesV2 EURUSD,H1: uninit reason 3
+0	16:21:32.811	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 3
+0	16:21:32.811	lastmanstandingindicatorv11 EURUSD,M15: initialized
+0	16:21:32.812	TheDaviesV2 EURUSD,M15: initialized
+0	16:22:17.905	TheDaviesV2 EURUSD,M15: uninit reason 3
+0	16:22:17.907	lastmanstandingindicatorv11 EURUSD,M15: uninit reason 3
+0	16:22:17.907	lastmanstandingindicatorv11 EURUSD,M30: initialized
+0	16:22:17.908	TheDaviesV2 EURUSD,M30: initialized
+0	16:22:27.210	TheDaviesV2 EURUSD,M30: uninit reason 3
+0	16:22:27.212	lastmanstandingindicatorv11 EURUSD,M30: uninit reason 3
+0	16:22:27.212	lastmanstandingindicatorv11 EURUSD,M15: initialized
+0	16:22:27.213	TheDaviesV2 EURUSD,M15: initialized
+0	16:22:30.777	TheDaviesV2 EURUSD,M15: uninit reason 3
+0	16:22:30.780	lastmanstandingindicatorv11 EURUSD,M15: uninit reason 3
+0	16:22:30.781	lastmanstandingindicatorv11 EURUSD,M5: initialized
+0	16:22:31.117	TheDaviesV2 EURUSD,M5: initialized
+0	16:24:07.570	TheDaviesV2 EURUSD,M5: uninit reason 3
+0	16:24:07.572	lastmanstandingindicatorv11 EURUSD,M5: uninit reason 3
+0	16:24:07.572	lastmanstandingindicatorv11 EURUSD,M15: initialized
+0	16:24:07.573	TheDaviesV2 EURUSD,M15: initialized
+0	16:25:07.937	TheDaviesV2 EURUSD,M15: uninit reason 3
+0	16:25:07.939	lastmanstandingindicatorv11 EURUSD,M15: uninit reason 3
+0	16:25:07.939	lastmanstandingindicatorv11 EURUSD,M30: initialized
+0	16:25:07.940	TheDaviesV2 EURUSD,M30: initialized
+0	16:28:00.360	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	16:28:00.360	TheDaviesV2 EURUSD,M30: uninit reason 9
+0	16:28:00.553	lastmanstandingindicatorv11 EURUSD,M30: uninit reason 9
+0	16:28:00.634	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	16:28:00.715	Expert TheDaviesV2 EURUSD,M30: removed
+0	16:28:00.722	Custom indicator lastmanstandingindicatorv11 EURUSD,M30: removed
+0	16:28:10.442	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	16:28:10.466	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	16:28:10.508	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	16:28:10.530	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	16:28:10.686	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	16:28:10.709	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	16:28:10.866	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	16:28:12.151	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	16:28:12.186	TheDaviesV2 EURUSD,H1: initialized
+0	16:43:58.687	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	16:43:58.687	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	16:43:58.687	TheDaviesV2 EURUSD,H1: uninit reason 9
+0	16:43:58.801	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	16:43:58.863	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	16:43:58.878	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	16:43:58.922	Expert TheDaviesV2 EURUSD,H1: removed
+0	16:43:58.927	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	16:44:07.117	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	16:44:07.140	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	16:44:07.173	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	16:44:07.196	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	16:44:07.240	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	16:44:07.262	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	16:44:07.387	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	16:44:07.410	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	16:44:07.577	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	16:44:09.173	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	16:44:09.206	TheDaviesV2 EURUSD,H1: initialized
+0	17:30:39.128	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	17:30:39.128	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	17:30:39.128	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	17:30:39.128	TheDaviesV2 EURUSD,H1: uninit reason 9
+0	17:30:39.249	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	17:30:39.306	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	17:30:39.312	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	17:30:39.326	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	17:30:39.374	Expert TheDaviesV2 EURUSD,H1: removed
+0	17:30:39.381	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	17:30:49.512	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	17:30:49.536	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	17:30:49.573	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	17:30:49.601	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	17:30:49.640	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	17:30:49.663	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	17:30:49.712	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	17:30:49.739	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	17:30:49.876	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	17:30:49.899	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	17:30:50.088	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	17:30:52.293	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	17:30:52.331	TheDaviesV2 EURUSD,H1: initialized
+0	17:45:11.798	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	17:45:11.798	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	17:45:11.798	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	17:45:11.798	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	17:45:11.798	TheDaviesV2 EURUSD,H1: uninit reason 9
+0	17:45:11.932	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	17:45:11.996	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	17:45:12.002	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	17:45:12.008	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	17:45:12.027	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	17:45:12.069	Expert TheDaviesV2 EURUSD,H1: removed
+0	17:45:12.077	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	17:45:18.525	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	17:45:18.549	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	17:45:18.582	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	17:45:18.604	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	17:45:18.638	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	17:45:18.660	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	17:45:18.696	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	17:45:18.718	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	17:45:18.761	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	17:45:18.783	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	17:46:12.159	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 3
+0	17:46:12.159	lastmanstandingindicatorv11 EURUSD,M30: initialized
+0	17:46:17.999	lastmanstandingindicatorv11 EURUSD,M30: uninit reason 3
+0	17:46:17.999	lastmanstandingindicatorv11 EURUSD,M15: initialized
+0	17:46:28.663	lastmanstandingindicatorv11 EURUSD,M15: uninit reason 3
+0	17:46:28.665	lastmanstandingindicatorv11 EURUSD,M5: initialized
+0	17:47:40.469	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	17:47:40.469	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	17:47:40.469	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	17:47:40.469	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	17:47:40.469	lastmanstandingindicatorv11 EURUSD,M5: uninit reason 9
+0	17:47:40.558	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	17:47:40.563	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	17:47:40.568	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	17:47:40.578	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	17:47:40.587	Custom indicator lastmanstandingindicatorv11 EURUSD,M5: removed
+0	17:47:47.115	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	17:47:47.139	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	17:47:47.172	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	17:47:47.194	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	17:47:47.230	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	17:47:47.254	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	17:47:47.290	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	17:47:47.312	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	17:47:47.349	Custom indicator lastmanstandingindicatorv11 EURUSD,M5: loaded successfully
+0	17:47:47.374	lastmanstandingindicatorv11 EURUSD,M5: initialized
+0	17:47:47.553	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	17:47:47.575	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	17:47:47.751	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	17:47:51.600	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	17:47:51.646	TheDaviesV2 EURUSD,H1: initialized
+0	17:58:48.896	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 4
+0	17:58:48.896	TheDaviesV2 EURUSD,H1: uninit reason 4
+0	17:58:48.918	Expert TheDaviesV2 EURUSD,H1: removed
+0	17:58:48.924	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	22:43:13.628	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	22:43:13.628	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	22:43:13.628	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	22:43:13.628	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	22:43:13.628	lastmanstandingindicatorv11 EURUSD,M5: uninit reason 9
+0	22:43:13.797	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	22:43:13.831	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	22:43:13.863	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	22:43:13.896	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	22:43:13.982	Custom indicator lastmanstandingindicatorv11 EURUSD,M5: removed
+0	22:49:23.153	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	22:49:23.178	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	22:49:23.211	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	22:49:23.233	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	22:49:23.303	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	22:49:23.331	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	22:49:23.371	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	22:49:23.393	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	22:49:23.429	Custom indicator lastmanstandingindicatorv11 EURUSD,M5: loaded successfully
+0	22:49:23.456	lastmanstandingindicatorv11 EURUSD,M5: initialized
+0	22:49:23.651	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	22:49:23.674	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	22:49:23.863	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	22:49:28.765	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	22:49:28.804	TheDaviesV2 EURUSD,H1: Alert: Hour :22
+0	22:49:28.804	TheDaviesV2 EURUSD,H1: initialized
+0	22:49:37.047	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 4
+0	22:49:37.047	TheDaviesV2 EURUSD,H1: uninit reason 4
+0	22:49:37.153	Expert TheDaviesV2 EURUSD,H1: removed
+0	22:49:37.161	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	22:49:40.230	lastmanstandingindicatorv11 EURUSD,M5: uninit reason 4
+0	22:49:40.234	Custom indicator lastmanstandingindicatorv11 EURUSD,M5: removed
+0	22:49:41.308	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 4
+0	22:49:41.311	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	22:49:42.420	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 4
+0	22:49:42.424	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	22:51:14.983	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	22:51:14.983	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	22:51:15.161	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	22:51:15.195	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	22:52:16.212	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	22:52:16.245	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	22:52:16.286	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	22:52:16.317	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	22:52:16.476	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	22:52:16.501	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	22:52:16.739	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	22:52:18.302	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	22:52:18.343	TheDaviesV2 EURUSD,H1: Alert: Hour :22
+0	22:52:18.343	TheDaviesV2 EURUSD,H1: initialized

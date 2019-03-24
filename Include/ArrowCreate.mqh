@@ -12,21 +12,21 @@
 
 
 bool ArrowCreate(string name, datetime time, double price, color clr, double size, int type){
-  
+
 //--- create an arrow
 	/*if (!ObjectCreate(NULL,name,OBJ_ARROW,0,time,price)){
-     
+
 		Print(__FUNCTION__,
 		    ": failed to create an arrow! Error code = ",GetLastError());
 		return(false);
 	}*/
 	int anchor;
 
-	if (type == 234) {
+	if (type == 226) {
 		anchor = ANCHOR_BOTTOM;
 	} else {
 		anchor = ANCHOR_TOP;
-	}
+	}    
 
 	ObjectCreate(NULL,name,OBJ_ARROW,0,time,price);
 
@@ -43,4 +43,3 @@ bool ArrowCreate(string name, datetime time, double price, color clr, double siz
 //--- successful execution
    return(true);
 }
-

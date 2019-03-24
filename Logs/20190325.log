@@ -1,0 +1,468 @@
+0	00:05:14.097	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:05:14.098	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:05:14.098	TheDaviesV2 EURUSD,H1: uninit reason 9
+0	00:05:14.163	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:05:14.276	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	00:05:14.295	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	00:05:14.339	Expert TheDaviesV2 EURUSD,H1: removed
+0	00:05:14.344	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	00:05:22.192	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	00:05:22.218	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	00:05:22.254	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	00:05:22.277	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	00:05:22.323	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	00:05:22.351	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	00:05:22.486	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	00:05:22.509	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	00:05:22.694	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	00:05:28.315	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	00:05:28.356	TheDaviesV2 EURUSD,H1: Alert: Hour :0
+0	00:05:28.356	TheDaviesV2 EURUSD,H1: initialized
+0	00:06:54.166	TheDaviesV2 EURUSD,H1: Gradient: 1.000014695026874
+0	00:07:07.741	TheDaviesV2 EURUSD,H1: Gradient: 1.000015403216148
+0	00:07:12.483	TheDaviesV2 EURUSD,H1: Gradient: 1.000015226168736
+0	00:07:14.517	TheDaviesV2 EURUSD,H1: Gradient: 1.000015226168736
+0	00:07:24.964	TheDaviesV2 EURUSD,H1: Gradient: 1.000015403216148
+0	00:07:39.585	TheDaviesV2 EURUSD,H1: Gradient: 1.000015226168736
+0	00:07:58.924	TheDaviesV2 EURUSD,H1: Gradient: 1.000015757311161
+0	00:08:10.427	TheDaviesV2 EURUSD,H1: Gradient: 1.000015757311161
+0	00:08:17.193	TheDaviesV2 EURUSD,H1: Gradient: 1.000015757311161
+0	00:08:20.350	TheDaviesV2 EURUSD,H1: Gradient: 1.000015757311161
+0	00:08:21.945	TheDaviesV2 EURUSD,H1: Gradient: 1.000014517979713
+0	00:08:24.049	TheDaviesV2 EURUSD,H1: Gradient: 1.000014872074099
+0	00:08:27.691	TheDaviesV2 EURUSD,H1: Gradient: 1.000014872074099
+0	00:08:28.820	TheDaviesV2 EURUSD,H1: Gradient: 1.000014695026874
+0	00:08:32.334	TheDaviesV2 EURUSD,H1: Gradient: 1.000014695026874
+0	00:08:41.305	TheDaviesV2 EURUSD,H1: Gradient: 1.000014340932614
+0	00:08:43.363	TheDaviesV2 EURUSD,H1: Gradient: 1.000014163885578
+0	00:08:51.239	TheDaviesV2 EURUSD,H1: Gradient: 1.000014163885578
+0	00:09:01.170	TheDaviesV2 EURUSD,H1: Gradient: 1.000014163885578
+0	00:09:06.299	TheDaviesV2 EURUSD,H1: Gradient: 1.000013986838604
+0	00:09:07.917	TheDaviesV2 EURUSD,H1: Gradient: 1.000014340932614
+0	00:09:12.033	TheDaviesV2 EURUSD,H1: Gradient: 1.000014872074099
+0	00:09:12.056	TheDaviesV2 EURUSD,H1: Gradient: 1.000014872074099
+0	00:09:12.321	TheDaviesV2 EURUSD,H1: Gradient: 1.000014695026874
+0	00:09:13.625	TheDaviesV2 EURUSD,H1: Gradient: 1.000014695026874
+0	00:09:20.293	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:09:20.293	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:09:20.293	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:09:20.293	TheDaviesV2 EURUSD,H1: uninit reason 9
+0	00:09:20.427	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:09:20.610	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	00:09:20.625	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	00:09:20.669	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	00:09:20.773	Expert TheDaviesV2 EURUSD,H1: removed
+0	00:09:20.782	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	00:10:13.793	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	00:10:13.819	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	00:10:13.854	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	00:10:13.880	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	00:10:13.921	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	00:10:13.945	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	00:10:13.993	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	00:10:14.017	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	00:10:14.165	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	00:10:14.188	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	00:10:14.380	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	00:10:20.472	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	00:10:20.518	TheDaviesV2 EURUSD,H1: initialized
+0	00:10:33.809	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:10:34.560	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:10:35.591	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:10:36.624	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:10:56.254	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:10:58.919	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:10:59.089	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:11:01.840	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:11:03.302	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:11:05.718	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:11:07.410	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:11:07.598	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:11:07.800	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:11:09.503	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:11:10.550	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:11:10.746	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:11:11.939	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:11:13.708	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:11:18.581	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:11:20.160	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:11:20.558	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:11:22.627	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:11:25.854	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:11:29.944	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:11:33.372	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:11:33.570	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:11:35.708	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:11:35.708	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:11:35.708	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:11:35.708	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:11:35.708	TheDaviesV2 EURUSD,H1: uninit reason 9
+0	00:11:35.753	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:11:35.823	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	00:11:35.828	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	00:11:35.839	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	00:11:35.861	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	00:11:35.935	Expert TheDaviesV2 EURUSD,H1: removed
+0	00:11:35.939	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	00:11:45.890	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	00:11:45.918	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	00:11:45.957	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	00:11:45.980	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	00:11:46.020	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	00:11:46.045	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	00:11:46.083	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	00:11:46.110	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	00:11:46.159	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	00:11:46.181	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	00:11:46.392	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	00:11:46.417	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	00:11:46.613	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	00:11:47.795	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	00:11:47.842	TheDaviesV2 EURUSD,H1: initialized
+0	00:11:55.291	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:11:55.291	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:11:56.720	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:11:56.720	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:11:59.472	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:11:59.472	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:11:59.726	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:11:59.726	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:03.531	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:03.531	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:04.691	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:04.691	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:07.704	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:07.704	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:09.319	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:09.319	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:11.786	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:11.786	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:11.803	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:11.803	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:13.205	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:13.205	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:13.534	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:13.534	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:13.694	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:13.694	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:13.921	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:13.921	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:14.722	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:14.722	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:16.502	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:16.502	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:16.721	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:16.721	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:17.212	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:17.212	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:21.317	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:12:21.317	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:25.728	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:25.728	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:27.809	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:27.809	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:28.519	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:28.519	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:28.928	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:28.928	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:33.336	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:33.336	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:37.425	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:37.425	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:40.837	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:40.837	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:41.051	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:41.051	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:41.237	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:41.237	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:43.851	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:43.851	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:44.034	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:12:44.034	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:44.331	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:44.331	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:45.260	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:12:45.260	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:54.160	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:12:54.160	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:57.658	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:12:57.658	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:57.881	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:12:57.881	TheDaviesV2 EURUSD,H1: Target: 0.0001
+0	00:12:59.692	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:12:59.692	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:12:59.692	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:12:59.692	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:12:59.692	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:12:59.692	TheDaviesV2 EURUSD,H1: uninit reason 9
+0	00:12:59.717	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:12:59.785	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	00:12:59.791	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	00:12:59.798	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	00:12:59.806	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	00:12:59.830	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	00:12:59.883	Expert TheDaviesV2 EURUSD,H1: removed
+0	00:12:59.891	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	00:13:07.943	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	00:13:07.970	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	00:13:08.014	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	00:13:08.040	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	00:13:08.080	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	00:13:08.102	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	00:13:08.146	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	00:13:08.170	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	00:13:08.212	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	00:13:08.236	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	00:13:08.287	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	00:13:08.311	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	00:13:08.479	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: loaded successfully
+0	00:13:08.501	lastmanstandingindicatorv11 EURUSD,H1: initialized
+0	00:13:08.703	Expert TheDaviesV2 EURUSD,H1: loaded successfully
+0	00:13:10.812	TheDaviesV2 EURUSD,H1 inputs: MajorSwingColor=8388736; MajorSwingSize=3; PeriodsInMajorSwing=13; PeriodsInMinorSwing=5; stoplossVar=10.0; lotSize=1.0; majorSwingHighArraySize=0; 
+0	00:13:10.864	TheDaviesV2 EURUSD,H1: initialized
+0	00:13:15.980	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:13:15.980	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:16.899	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:13:16.899	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:17.641	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:13:17.641	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:17.821	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:13:17.821	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:21.119	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:13:21.119	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:21.623	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:13:21.623	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:22.615	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:13:22.615	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:25.832	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:13:25.832	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:26.143	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:13:26.143	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:26.427	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:13:26.427	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:27.835	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:13:27.835	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:28.558	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:13:28.558	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:29.408	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:13:29.408	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:30.313	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:13:30.313	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:31.127	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:13:31.127	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:31.465	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:13:31.465	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:32.438	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:13:32.438	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:36.859	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:13:36.859	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:37.550	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:13:37.550	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:38.032	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:13:38.032	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:38.936	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:13:38.936	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:39.972	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:13:39.972	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:40.517	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:13:40.517	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:46.035	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:13:46.035	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:46.626	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:13:46.626	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:47.940	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:13:47.940	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:48.158	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:13:48.158	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:48.463	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:13:48.463	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:50.351	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:13:50.351	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:13:53.990	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:13:53.990	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:11.386	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:11.386	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:14.985	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:14.985	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:18.617	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:18.617	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:19.805	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:19.805	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:24.579	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:24.579	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:24.900	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:24.900	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:25.104	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:25.104	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:25.597	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:25.597	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:27.424	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:27.424	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:28.891	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:28.891	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:32.494	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:32.494	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:32.703	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:32.703	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:34.595	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:34.595	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:34.805	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:34.805	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:39.254	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:39.254	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:39.810	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:39.810	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:43.303	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:43.303	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:43.536	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:43.536	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:43.930	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:43.930	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:49.021	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:49.021	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:51.942	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:51.942	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:52.438	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:52.438	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:55.534	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:55.534	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:55.771	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:55.771	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:56.291	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:56.291	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:57.929	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:57.929	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:14:58.836	TheDaviesV2 EURUSD,H1: Gradient: 1.00001
+0	00:14:58.836	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:15:07.867	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:15:07.867	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:15:09.346	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:15:09.346	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:15:09.847	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:15:09.847	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:15:14.596	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:15:14.596	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:15:14.880	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:15:14.880	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:15:15.661	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:15:15.661	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:15:16.017	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:15:16.017	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:15:23.983	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:15:23.983	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:15:37.780	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:15:37.780	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:15:38.988	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:15:38.988	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:15:40.565	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:15:40.565	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:15:40.788	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:15:40.788	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:15:40.965	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:15:40.965	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:15:47.763	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:15:47.763	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:15:50.970	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:15:50.970	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:15:51.971	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:15:51.971	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:15:59.492	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:15:59.492	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:15:59.780	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:15:59.780	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:16:15.515	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:16:15.515	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:16:32.536	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:16:32.536	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:16:33.052	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:16:33.052	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:16:33.814	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:16:33.814	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:16:40.421	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:16:40.421	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:16:42.635	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:16:42.635	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:16:46.032	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:16:46.032	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:16:47.145	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:16:47.145	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:16:53.939	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:16:53.939	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:16:59.249	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:16:59.249	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:17:00.485	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:17:00.485	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:17:02.141	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:17:02.141	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:17:11.002	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:17:11.002	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:17:13.295	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:17:13.295	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:17:22.076	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:17:22.076	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:17:22.263	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:17:22.263	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:17:24.701	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:17:24.701	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:17:26.982	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:17:26.982	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:17:47.203	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:17:47.203	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:17:47.797	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:17:47.797	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:18:02.923	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:18:02.923	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:18:03.107	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:18:03.107	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:18:07.249	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:18:07.249	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:18:08.926	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:18:08.926	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:18:09.254	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:18:09.254	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:18:13.828	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:18:13.828	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:18:17.235	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:18:17.235	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:18:22.966	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:18:22.966	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:18:23.142	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:18:23.142	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:18:39.091	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:18:39.091	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:18:43.495	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:18:43.495	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:18:45.138	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:18:45.138	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:18:58.263	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:18:58.263	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:18:59.281	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:18:59.281	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:18:59.506	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:18:59.506	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:19:01.603	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:19:01.603	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:19:09.589	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:19:09.589	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:19:20.404	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:19:20.404	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:19:20.848	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:19:20.848	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:19:27.418	TheDaviesV2 EURUSD,H1: Gradient: 1.0
+0	00:19:27.418	TheDaviesV2 EURUSD,H1: Target: 1.0001
+0	00:19:42.316	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:19:42.316	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:19:42.316	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:19:42.316	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:19:42.316	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:19:42.316	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:19:42.316	TheDaviesV2 EURUSD,H1: uninit reason 9
+0	00:19:42.389	lastmanstandingindicatorv11 EURUSD,H1: uninit reason 9
+0	00:19:42.460	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	00:19:42.465	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	00:19:42.473	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	00:19:42.479	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	00:19:42.485	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	00:19:42.510	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
+0	00:19:42.563	Expert TheDaviesV2 EURUSD,H1: removed
+0	00:19:42.573	Custom indicator lastmanstandingindicatorv11 EURUSD,H1: removed
