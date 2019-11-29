@@ -1,0 +1,273 @@
+0	17:27:02.763	Compiling 'FileWriter'
+0	17:27:09.933	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	17:27:10.081	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	17:27:10.232	Expert DataGenerator EURDKK,H1: loaded successfully
+0	17:27:13.743	DataGenerator EURDKK,H1 inputs: InpFileName=Data2.csv; InpDirectoryName=Data; symbol=EURUSD; timeFrame=5; 
+0	17:27:13.791	DataGenerator EURDKK,H1: initialized
+0	17:27:46.823	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 4
+0	17:27:46.823	DataGenerator EURDKK,H1: uninit reason 4
+0	17:27:51.752	Expert DataGenerator EURDKK,H1: removed
+0	17:27:51.853	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	17:31:46.756	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	17:31:46.781	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	17:31:46.868	Expert DataGenerator EURDKK,H1: loaded successfully
+0	17:31:47.991	DataGenerator EURDKK,H1 inputs: InpFileName=Data2.csv; InpDirectoryName=Data; symbol=EURUSD; timeFrame=5; 
+0	17:31:48.024	DataGenerator EURDKK,H1: initialized
+0	17:34:30.292	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 4
+0	17:34:30.292	DataGenerator EURDKK,H1: uninit reason 4
+0	17:34:30.340	Expert DataGenerator EURDKK,H1: removed
+0	17:34:30.347	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	17:35:20.577	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	17:35:20.600	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	17:35:20.688	Expert BuyDataGenerator EURDKK,H1: loaded successfully
+0	17:35:21.760	BuyDataGenerator EURDKK,H1 inputs: InpFileName=Data2.csv; InpDirectoryName=Data; symbol=EURUSD; timeFrame=5; 
+0	17:35:21.798	BuyDataGenerator EURDKK,H1: initialized
+0	17:36:18.336	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 4
+0	17:36:18.336	BuyDataGenerator EURDKK,H1: uninit reason 4
+0	17:36:18.397	Expert BuyDataGenerator EURDKK,H1: removed
+0	17:36:18.405	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	17:37:55.698	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	17:37:55.722	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	17:37:55.819	Expert BuyDataGenerator EURDKK,H1: loaded successfully
+0	17:37:56.844	BuyDataGenerator EURDKK,H1 inputs: InpFileName=Data2.csv; InpDirectoryName=Data; symbol=EURUSD; timeFrame=5; 
+0	17:37:56.880	BuyDataGenerator EURDKK,H1: initialized
+0	17:38:24.855	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 4
+0	17:38:24.855	BuyDataGenerator EURDKK,H1: uninit reason 4
+0	17:38:24.911	Expert BuyDataGenerator EURDKK,H1: removed
+0	17:38:24.916	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	17:38:26.635	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	17:38:26.670	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	17:38:26.767	Expert BuyDataGenerator EURDKK,H1: loaded successfully
+0	17:38:27.841	BuyDataGenerator EURDKK,H1 inputs: InpFileName=Data2.csv; InpDirectoryName=Data; symbol=EURUSD; timeFrame=5; 
+0	17:38:27.871	BuyDataGenerator EURDKK,H1: initialized
+0	17:56:28.897	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 4
+0	17:56:28.897	BuyDataGenerator EURDKK,H1: uninit reason 4
+0	17:56:28.954	Expert BuyDataGenerator EURDKK,H1: removed
+0	17:56:28.959	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	18:01:31.374	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	18:01:31.399	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	18:01:31.494	Expert BuyDataGenerator EURDKK,H1: loaded successfully
+0	18:01:32.617	BuyDataGenerator EURDKK,H1 inputs: InpFileName=Data2.csv; InpDirectoryName=Data; symbol=EURUSD; timeFrame=5; 
+0	18:01:32.651	BuyDataGenerator EURDKK,H1: initialized
+0	18:02:18.739	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 4
+0	18:02:18.740	BuyDataGenerator EURDKK,H1: uninit reason 4
+0	18:02:18.790	Expert BuyDataGenerator EURDKK,H1: removed
+0	18:02:18.796	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	18:02:20.386	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	18:02:20.412	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	18:02:20.518	Expert BuyDataGenerator EURDKK,H1: loaded successfully
+0	18:02:21.870	BuyDataGenerator EURDKK,H1 inputs: InpFileName=Data2.csv; InpDirectoryName=Data; symbol=EURUSD; timeFrame=5; 
+0	18:02:21.899	BuyDataGenerator EURDKK,H1: initialized
+0	18:02:29.845	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 4
+0	18:02:29.845	BuyDataGenerator EURDKK,H1: uninit reason 4
+0	18:02:29.898	Expert BuyDataGenerator EURDKK,H1: removed
+0	18:02:29.903	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	18:05:10.118	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	18:05:10.144	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	18:05:10.240	Expert BuyDataGenerator EURDKK,H1: loaded successfully
+0	18:05:11.220	BuyDataGenerator EURDKK,H1 inputs: InpFileName=Data2.csv; InpDirectoryName=Data; symbol=EURUSD; timeFrame=5; 
+0	18:05:11.275	BuyDataGenerator EURDKK,H1: initialized
+0	19:01:26.208	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 4
+0	19:01:26.208	BuyDataGenerator EURDKK,H1: uninit reason 4
+0	19:01:26.277	Expert BuyDataGenerator EURDKK,H1: removed
+0	19:01:26.283	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	19:01:51.466	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	19:01:51.496	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	19:01:51.597	Expert BuyDataGenerator EURDKK,H1: loaded successfully
+0	19:01:52.629	BuyDataGenerator EURDKK,H1 inputs: InpFileName=Data2.csv; InpDirectoryName=Data; symbol=EURUSD; timeFrame=5; 
+0	19:01:52.666	BuyDataGenerator EURDKK,H1: initialized
+0	19:02:04.930	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 4
+0	19:02:04.930	BuyDataGenerator EURDKK,H1: uninit reason 4
+0	19:02:05.000	Expert BuyDataGenerator EURDKK,H1: removed
+0	19:02:05.005	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	19:10:54.994	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	19:10:55.021	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	19:10:55.141	Expert BuyDataGenerator EURDKK,H1: loaded successfully
+0	19:10:56.487	BuyDataGenerator EURDKK,H1 inputs: InpFileName=BuyData.csv; InpDirectoryName=Data; symbol=EURUSD; timeFrame=5; 
+0	19:10:56.520	BuyDataGenerator EURDKK,H1: initialized
+0	19:11:05.146	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 4
+0	19:11:05.147	BuyDataGenerator EURDKK,H1: uninit reason 4
+0	19:11:05.149	BuyDataGenerator EURDKK,H1: BuyData.csv file is available for writing
+0	19:11:05.150	BuyDataGenerator EURDKK,H1: Data is written, BuyData.csv file is closed
+0	19:11:05.220	Expert BuyDataGenerator EURDKK,H1: removed
+0	19:11:05.228	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	19:16:01.017	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	19:16:01.051	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	19:16:01.144	Expert BuyDataGenerator EURDKK,H1: loaded successfully
+0	19:16:02.089	BuyDataGenerator EURDKK,H1 inputs: InpFileName=BuyData.csv; InpDirectoryName=Data; symbol=EURUSD; timeFrame=5; 
+0	19:16:02.123	BuyDataGenerator EURDKK,H1: initialized
+0	19:18:16.452	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 4
+0	19:18:16.452	BuyDataGenerator EURDKK,H1: uninit reason 4
+0	19:18:16.455	BuyDataGenerator EURDKK,H1: BuyData.csv file is available for writing
+0	19:18:16.457	BuyDataGenerator EURDKK,H1: Data is written, BuyData.csv file is closed
+0	19:18:16.523	Expert BuyDataGenerator EURDKK,H1: removed
+0	19:18:16.533	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	19:18:18.064	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	19:18:18.107	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	19:18:18.218	Expert BuyDataGenerator EURDKK,H1: loaded successfully
+0	19:18:19.591	BuyDataGenerator EURDKK,H1 inputs: InpFileName=BuyData2.csv; InpDirectoryName=Data; symbol=EURUSD; timeFrame=5; 
+0	19:18:19.630	BuyDataGenerator EURDKK,H1: initialized
+0	19:20:23.838	BuyDataGenerator EURDKK,H1: uninit reason 9
+0	19:20:23.879	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 9
+0	19:20:24.138	Expert BuyDataGenerator EURDKK,H1: removed
+0	19:20:24.145	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	19:20:33.178	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	19:20:33.203	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	19:22:21.080	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	19:22:21.115	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	19:22:21.215	Expert BuyDataGenerator EURDKK,H1: loaded successfully
+0	19:22:22.247	BuyDataGenerator EURDKK,H1 inputs: InpFileName=BuyData2.csv; InpDirectoryName=Data; symbol=EURUSD; timeFrame=5; 
+0	19:22:22.288	BuyDataGenerator EURDKK,H1: initialized
+0	19:24:16.159	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 4
+0	19:24:16.159	BuyDataGenerator EURDKK,H1: uninit reason 4
+0	19:24:16.164	BuyDataGenerator EURDKK,H1: BuyData2.csv file is available for writing
+0	19:24:16.165	BuyDataGenerator EURDKK,H1: Data is written, BuyData2.csv file is closed
+0	19:24:16.248	Expert BuyDataGenerator EURDKK,H1: removed
+0	19:24:16.259	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	19:24:17.781	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	19:24:17.816	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	19:24:17.934	Expert BuyDataGenerator EURDKK,H1: loaded successfully
+0	19:24:18.710	BuyDataGenerator EURDKK,H1 inputs: InpFileName=BuyData2.csv; InpDirectoryName=Data; symbol=EURUSD; timeFrame=5; 
+0	19:24:18.774	BuyDataGenerator EURDKK,H1: initialized
+0	19:25:54.937	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 4
+0	19:25:54.937	BuyDataGenerator EURDKK,H1: uninit reason 4
+0	19:25:54.940	BuyDataGenerator EURDKK,H1: BuyData2.csv file is available for writing
+0	19:25:54.943	BuyDataGenerator EURDKK,H1: Data is written, BuyData2.csv file is closed
+0	19:25:55.002	Expert BuyDataGenerator EURDKK,H1: removed
+0	19:25:55.011	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	19:25:56.870	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	19:25:56.899	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	19:25:56.981	Expert BuyDataGenerator EURDKK,H1: loaded successfully
+0	19:25:57.931	BuyDataGenerator EURDKK,H1 inputs: InpFileName=BuyData2.csv; InpDirectoryName=Data; symbol=EURUSD; timeFrame=5; 
+0	19:25:57.969	BuyDataGenerator EURDKK,H1: initialized
+0	19:26:44.006	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 4
+0	19:26:44.006	BuyDataGenerator EURDKK,H1: uninit reason 4
+0	19:26:44.009	BuyDataGenerator EURDKK,H1: BuyData2.csv file is available for writing
+0	19:26:44.010	BuyDataGenerator EURDKK,H1: Data is written, BuyData2.csv file is closed
+0	19:26:44.078	Expert BuyDataGenerator EURDKK,H1: removed
+0	19:26:44.085	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	19:26:45.427	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	19:26:45.456	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	19:26:45.575	Expert BuyDataGenerator EURDKK,H1: loaded successfully
+0	19:26:47.937	BuyDataGenerator EURDKK,H1 inputs: InpFileName=BuyData2.csv; InpDirectoryName=Data; symbol=EURUSD; timeFrame=5; 
+0	19:26:47.974	BuyDataGenerator EURDKK,H1: initialized
+0	19:26:56.549	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 4
+0	19:26:56.549	BuyDataGenerator EURDKK,H1: uninit reason 4
+0	19:26:56.550	BuyDataGenerator EURDKK,H1: BuyData2.csv file is available for writing
+0	19:26:56.551	BuyDataGenerator EURDKK,H1: Data is written, BuyData2.csv file is closed
+1	19:26:56.554	BuyDataGenerator EURDKK,H1: Abnormal termination
+0	19:26:56.612	Expert BuyDataGenerator EURDKK,H1: removed
+0	19:26:56.620	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	19:32:56.581	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	19:32:56.605	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	19:32:56.690	Expert BuyDataGenerator EURDKK,H1: loaded successfully
+0	19:32:57.884	BuyDataGenerator EURDKK,H1 inputs: InpFileName=BuyData.csv; InpDirectoryName=Data; symbol=EURUSD; timeFrame=5; 
+0	19:32:57.917	BuyDataGenerator EURDKK,H1: initialized
+0	20:02:52.867	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 4
+0	20:02:52.867	BuyDataGenerator EURDKK,H1: uninit reason 4
+0	20:02:52.870	BuyDataGenerator EURDKK,H1: BuyData.csv file is available for writing
+0	20:02:52.871	BuyDataGenerator EURDKK,H1: Data is written, BuyData.csv file is closed
+0	20:02:52.944	Expert BuyDataGenerator EURDKK,H1: removed
+0	20:02:52.950	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	20:02:54.263	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	20:02:54.291	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	20:02:54.377	Expert BuyDataGenerator EURDKK,H1: loaded successfully
+0	20:02:55.661	BuyDataGenerator EURDKK,H1 inputs: InpFileName=BuyData.csv; InpDirectoryName=Data; symbol=EURUSD; timeFrame=5; 
+0	20:02:55.729	BuyDataGenerator EURDKK,H1: initialized
+0	20:03:08.513	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 4
+0	20:03:08.513	BuyDataGenerator EURDKK,H1: uninit reason 4
+0	20:03:08.513	BuyDataGenerator EURDKK,H1: BuyData.csv file is available for writing
+0	20:03:08.514	BuyDataGenerator EURDKK,H1: Data is written, BuyData.csv file is closed
+0	20:03:08.588	Expert BuyDataGenerator EURDKK,H1: removed
+0	20:03:08.594	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	20:10:03.795	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	20:10:03.825	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	20:10:03.908	Expert BuyDataGenerator EURDKK,H1: loaded successfully
+0	20:10:04.910	BuyDataGenerator EURDKK,H1 inputs: InpFileName=BuyData.csv; InpDirectoryName=Data; symbol=EURUSD; timeFrame=5; 
+0	20:10:04.954	BuyDataGenerator EURDKK,H1: initialized
+0	20:13:09.041	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 4
+0	20:13:09.041	BuyDataGenerator EURDKK,H1: uninit reason 4
+0	20:13:09.044	BuyDataGenerator EURDKK,H1: BuyData.csv file is available for writing
+0	20:13:09.045	BuyDataGenerator EURDKK,H1: Data is written, BuyData.csv file is closed
+0	20:13:09.089	Expert BuyDataGenerator EURDKK,H1: removed
+0	20:13:09.096	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	20:13:10.218	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	20:13:10.244	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	20:13:10.326	Expert BuyDataGenerator EURDKK,H1: loaded successfully
+0	20:13:11.224	BuyDataGenerator EURDKK,H1 inputs: InpFileName=BuyData.csv; InpDirectoryName=Data; symbol=EURUSD; timeFrame=5; 
+0	20:13:11.257	BuyDataGenerator EURDKK,H1: initialized
+0	20:16:24.214	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 4
+0	20:16:24.214	BuyDataGenerator EURDKK,H1: uninit reason 4
+0	20:16:24.216	BuyDataGenerator EURDKK,H1: BuyData.csv file is available for writing
+0	20:16:24.217	BuyDataGenerator EURDKK,H1: Data is written, BuyData.csv file is closed
+0	20:16:24.278	Expert BuyDataGenerator EURDKK,H1: removed
+0	20:16:24.284	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	20:16:35.458	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	20:16:35.491	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	20:16:35.578	Expert BuyDataGenerator EURDKK,H1: loaded successfully
+0	20:16:36.450	BuyDataGenerator EURDKK,H1 inputs: InpFileName=BuyData.csv; InpDirectoryName=Data; symbol=EURUSD; timeFrame=5; 
+0	20:16:36.533	BuyDataGenerator EURDKK,H1: initialized
+0	20:17:54.618	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 4
+0	20:17:54.619	BuyDataGenerator EURDKK,H1: uninit reason 4
+0	20:17:54.622	BuyDataGenerator EURDKK,H1: BuyData.csv file is available for writing
+0	20:17:54.624	BuyDataGenerator EURDKK,H1: Data is written, BuyData.csv file is closed
+0	20:17:54.716	Expert BuyDataGenerator EURDKK,H1: removed
+0	20:17:54.724	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	20:17:57.171	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	20:17:57.194	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	20:17:57.298	Expert BuyDataGenerator EURDKK,H1: loaded successfully
+0	20:17:58.306	BuyDataGenerator EURDKK,H1 inputs: InpFileName=BuyData.csv; InpDirectoryName=Data; symbol=EURUSD; timeFrame=5; 
+0	20:17:58.343	BuyDataGenerator EURDKK,H1: initialized
+0	20:18:16.384	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 9
+0	20:18:16.384	BuyDataGenerator EURDKK,H1: uninit reason 9
+0	20:18:16.386	BuyDataGenerator EURDKK,H1: BuyData.csv file is available for writing
+0	20:18:16.388	BuyDataGenerator EURDKK,H1: Data is written, BuyData.csv file is closed
+0	20:18:16.403	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 9
+0	20:18:16.629	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	20:18:16.689	Expert BuyDataGenerator EURDKK,H1: removed
+0	20:18:16.694	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	20:18:26.749	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	20:18:26.811	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	20:18:26.869	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	20:18:26.893	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	20:18:37.662	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 9
+0	20:18:37.662	lastmanstandingindicatorv11 EURDKK,H1: uninit reason 9
+0	20:18:37.803	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	20:18:37.808	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: removed
+0	20:18:48.867	Compiling 'MACD Sample'
+0	20:18:48.867	Compiling 'Moving Average'
+0	20:18:53.098	Compiling 'Accelerator'
+0	20:18:53.098	Compiling 'Accumulation'
+0	20:18:53.098	Compiling 'Alligator'
+0	20:18:53.098	Compiling 'ATR'
+0	20:18:53.098	Compiling 'Awesome'
+0	20:18:53.098	Compiling 'Bands'
+0	20:18:53.099	Compiling 'Bears'
+0	20:18:53.099	Compiling 'Bulls'
+0	20:18:53.099	Compiling 'CCI'
+0	20:18:53.099	Compiling 'Custom Moving Averages'
+0	20:18:53.099	Compiling 'Heiken Ashi'
+0	20:18:53.099	Compiling 'Ichimoku'
+0	20:18:53.099	Compiling 'iExposure'
+0	20:18:53.099	Compiling 'MACD'
+0	20:18:53.100	Compiling 'Momentum'
+0	20:18:53.100	Compiling 'OsMA'
+0	20:18:53.100	Compiling 'Parabolic'
+0	20:18:53.100	Compiling 'RSI'
+0	20:18:53.100	Compiling 'Stochastic'
+0	20:18:53.100	Compiling 'ZigZag'
+0	20:18:53.101	Compiling 'SimplePanel'
+0	20:19:04.174	Compiling 'PeriodConverter'
+0	20:19:04.175	Compiling 'DLLSampleTester'
+0	20:19:04.176	Compiling 'PipeClient'
+0	20:19:04.176	Compiling 'PipeClientPure'
+0	20:19:09.338	Compiling 'stdlib'
+0	20:19:15.136	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	20:19:15.167	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	20:19:15.236	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	20:19:15.265	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	20:22:48.715	Custom indicator lastmanstandingindicatorv11 EURDKK,H1: loaded successfully
+0	20:22:48.751	lastmanstandingindicatorv11 EURDKK,H1: initialized
+0	20:22:48.842	Expert BuyDataGenerator EURDKK,H1: loaded successfully
+0	20:22:49.768	BuyDataGenerator EURDKK,H1 inputs: InpFileName=BuyData.csv; InpDirectoryName=Data; symbol=EURUSD; timeFrame=5; 
+0	20:22:49.811	BuyDataGenerator EURDKK,H1: initialized

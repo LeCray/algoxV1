@@ -22,16 +22,16 @@ bool ArrowCreate(string name, datetime time, double price, color clr, double siz
 	}*/
 	int anchor;
 
-	if (type == 226) {
+	if (type == 225) {
 		anchor = ANCHOR_BOTTOM;
 	} else {
 		anchor = ANCHOR_TOP;
-	}    
+	}
 
 	ObjectCreate(NULL,name,OBJ_ARROW,0,time,price);
 
 	ObjectSetInteger(NULL,name,OBJPROP_ARROWCODE,type);
-	ObjectSetInteger(NULL,name,OBJPROP_ANCHOR,anchor);
+	ObjectSetInteger(NULL,name,OBJPROP_ANCHOR,ANCHOR_BOTTOM);
 	ObjectSetInteger(NULL,name,OBJPROP_COLOR,clr);
 	ObjectSetInteger(NULL,name,OBJPROP_STYLE,STYLE_SOLID);
 	ObjectSetInteger(NULL,name,OBJPROP_WIDTH,size);

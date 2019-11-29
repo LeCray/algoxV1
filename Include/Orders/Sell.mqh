@@ -14,7 +14,7 @@
 void Sell(
     double SMAmovingAvg5M,
     int stoplossVar,
-    int lotSize,
+    double lotSize,
     double &majorSwingHighPrices[],
     double &majorSwingHighBars[],
     double &minorSwingHighPrices[],
@@ -25,6 +25,8 @@ void Sell(
 
 ){
     double recentLow;
+    int ticket;
+    int orders = OrdersTotal();
 
     if(minorSwingLowPrices[0]<majorSwingLowPrices[0]){ //Finding the lowest recent price
         recentLow = Low[iLowest(NULL, 5, MODE_LOW, minorSwingLowBars[0]+1, 0)];
@@ -56,41 +58,47 @@ void Sell(
 
                         if (High[0]>(minorSwingHighPrices[0] - 0.8*swing) && High[0]<(minorSwingHighPrices[0] - 0.2*swing)){
 
-                            //DO THE MAGIC THING!!!
-                            bool isDoji = Doji(1);
-                            int orders = OrdersTotal();
+                            int immediateHigh = iHighest(NULL,5,MODE_HIGH,minorSwingLowBars[0],0);
+                            if(High[immediateHigh] < minorSwingHighPrices[0]) { //Sometimes price is within the swing region but it has made a
+                                                                                //higher high than minorSwingHighPrices[0]. See Desktop/Trading/Algo/case_1.png
 
-                            if (isDoji) {
-                                if (High[0] < SMAmovingAvg5M) { //Must be below the SMA
-                                    if (Low[0] < Low[1]) {
+                                //DO THE MAGIC THING!!!
+                                bool isDoji = Doji(1);
+                                double LBB_takeprofit = NormalizeDouble(iBands(NULL,0,15,2,0,PRICE_CLOSE,MODE_LOWER,0), Digits()) - Bid;
 
-                                        string dojiArrow = StringConcatenate("dojiArrow",High[1]);
-                                        datetime time = Time[1];
-                                        double price2 = High[1];
-                                        color clr = clrRed;
-                                        int size = 1;
-                                        int type = 226;
-                                        ArrowCreate(dojiArrow, time, price2, clr, size, type); //This function is defined in ArrowCreate.mqh
+                                if (isDoji) {
+                                    if (High[0] < SMAmovingAvg5M) { //Must be below the SMA
+                                        if (Low[0] < Low[1]) {
 
-                                        if(orders == 0) { //Making sure only 1 order is open at a time
-                                            double minstoplevel = MarketInfo(0,MODE_STOPLEVEL);
-                                            double risk = (minstoplevel + stoplossVar)*Point(); //Turning pips into point size i.e 2 pips = 0.0002 on price axis
-                                            double reward = risk*3;
-                                            double stoploss = NormalizeDouble(Ask + risk, Digits());
-                                            double takeprofit = NormalizeDouble(Bid - reward, Digits());
+                                            string dojiArrow = StringConcatenate("dojiArrow",High[1]);
+                                            datetime time = Time[1];
+                                            double price2 = High[1];
+                                            color clr = clrRed;
+                                            int size = 1;
+                                            int type = 226;
+                                            ArrowCreate(dojiArrow, time, price2, clr, size, type); //This function is defined in ArrowCreate.mqh
 
-                                            //Print("Current High:", High[0]," ","Ask:", Ask," ", "Buy:",Bid);
-                                            //Print("Risk=",risk,"; ","Reward=",reward,"; ","SL=",stoploss,"; ","TP=",takeprofit, "; ","Lots=",lotSize);
+                                            if(orders == 0) { //Making sure only 1 order is open at a time
+                                                double minstoplevel = MarketInfo(0,MODE_STOPLEVEL);
+                                                double risk = minstoplevel*Point(); //Turning pips into point size i.e 2 pips = 0.0002 on price axis
+                                                double reward = risk*3;
+                                                double stoploss = NormalizeDouble(Ask + risk, Digits());
+                                                //double takeprofit = NormalizeDouble(Ask - reward, Digits());
 
-                                            int ticket = OrderSend(Symbol(), OP_SELL, lotSize, Bid, 3, stoploss, takeprofit,"Another one",0, 0, clrGreen);
+                                                //Print("Current High:", High[0]," ","Ask:", Ask," ", "Buy:",Bid);
+                                                Print("Risk=",risk,"; ","Reward=",reward,"; ","SL=",stoploss,"; ","TP=NULL", "; ","Lots=",lotSize);
 
-                                            if(ticket < 0) {
-                                                Print("OrderSend failed with error #",GetLastError());
-                                            } else {
-                                                Print("OrderSend placed successfully");
-                                            }
+                                                RefreshRates();
+                                                ticket = OrderSend(Symbol(), OP_SELL, lotSize, Bid, 3, stoploss, NULL,"Another one",0, 0, clrGreen);
 
-                                        } else {Print("Still in a position!");}
+                                                if(ticket < 0) {
+                                                    Alert("OrderSend failed with error #",GetLastError());
+                                                } else {
+                                                    Print("OrderSend placed successfully");
+                                                }
+
+                                            } else {Print("Still in a position!");}
+                                        }
                                     }
                                 }
                             }
@@ -102,4 +110,18 @@ void Sell(
 
         } else {/*Print("Not making lower highs");*/}
     } else {/*Print("Close !> recentLow");*/}
+
+    //CLOSE SELL ORDER AT LOWER BOLLINGER BAND
+    double LBB_price = NormalizeDouble(iBands(NULL,0,15,2,0,PRICE_CLOSE,MODE_LOWER,0), Digits());
+    if (orders != 0) {
+        if (Ask == LBB_price) {
+            bool closeOrder = OrderClose(ticket, lotSize, Ask, 3, Red);
+
+            if(closeOrder = false) {
+                Alert("OrderClose failed with error #",GetLastError());
+            } else {
+                Print("OrderClose placed successfully");
+            }
+        }
+    }
 }

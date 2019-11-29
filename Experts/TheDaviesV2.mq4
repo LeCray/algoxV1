@@ -19,13 +19,13 @@
 #property indicator_buffers 4
 #property indicator_chart_window
 
-extern color MajorSwingColor=clrPurple;
-extern int MajorSwingSize=3;
-extern int PeriodsInMajorSwing = 13;
-extern int PeriodsInMinorSwing = 5;
-extern double stoplossVar = 10;
-extern double lotSize = 1;
-extern int majorSwingHighArraySize=0;
+
+int MajorSwingSize=3;
+int PeriodsInMajorSwing = 13;
+int PeriodsInMinorSwing = 5;
+double stoplossVar = 10;
+double lotSize = 1;
+int majorSwingHighArraySize=0;
 
 //Arrays for Highs
 double majorSwingHighPrices[];
@@ -57,7 +57,9 @@ double recentSwingLow;
 //+------------------------------------------------------------------+
 void OnInit()
   {
-
+    double minstoplevel = MarketInfo(0,MODE_STOPLEVEL);
+    double mS = NormalizeDouble(minstoplevel*Point(), Digits());
+    Print("Bolinger Bands: ", iBands(NULL,0,15,2,0,PRICE_CLOSE,MODE_LOWER,0));
    //return(INIT_SUCCEEDED);
   }
 //+------------------------------------------------------------------+
@@ -75,11 +77,11 @@ void OnTick() {
 
 	int shift = iBarShift(NULL,0,Today); //This will find the number of bars from 0 to start of current day
 
-	double SMAmovingAvg5M	= iMA(NULL,5,50,0,MODE_SMMA,PRICE_CLOSE,0);
-	double LWMAmovingAvg5M	= iMA(NULL,5,50,0,MODE_LWMA,PRICE_CLOSE,0);
-	double SMAmovingAvg15M	= iMA(NULL,15,50,0,MODE_SMMA,PRICE_CLOSE,0);
+	double SMAmovingAvg5M	= iMA(NULL,PERIOD_M5,50,0,MODE_SMA,PRICE_CLOSE,0);
+	double LWMAmovingAvg5M	= iMA(NULL,PERIOD_M5,50,0,MODE_LWMA,PRICE_CLOSE,0);
+	double SMAmovingAvg15M	= iMA(NULL,15,50,0,MODE_SMA,PRICE_CLOSE,0);
 	double LWMAmovingAvg15M	= iMA(NULL,15,50,0,MODE_LWMA,PRICE_CLOSE,0);
-	double SMAmovingAvg30M	= iMA(NULL,30,50,0,MODE_SMMA,PRICE_CLOSE,0);
+	double SMAmovingAvg30M	= iMA(NULL,30,50,0,MODE_SMA,PRICE_CLOSE,0);
 	double LWMAmovingAvg30M	= iMA(NULL,30,50,0,MODE_LWMA,PRICE_CLOSE,0);
 
 	AddToMajorSwingHigh(PeriodsInMajorSwing,shift); //This function is defined inside AddSwingPoints.mqh
@@ -103,19 +105,19 @@ void OnTick() {
 
     if (Hour()>=9 && Hour()<=18) { //Can only trade between 9:00 and 18:00
 
-
         //SEEING WHERE THE MARKET IS TRENDING
     	if (LWMAmovingAvg30M > SMAmovingAvg30M) {
     		if(LWMAmovingAvg15M > SMAmovingAvg15M){
 
-                double iMA_5M_recent   = iMA(NULL,5,50,0,MODE_SMMA,PRICE_CLOSE,10);
-                double iMA_5M_current  = iMA(NULL,5,50,0,MODE_SMMA,PRICE_CLOSE,0);
+                double iMA_5M_recent   = iMA(NULL,PERIOD_M5,50,0,MODE_SMA,PRICE_CLOSE,10);
+                double iMA_5M_current  = iMA(NULL,PERIOD_M5,50,0,MODE_SMA,PRICE_CLOSE,0);
                 double gradient_5M     = NormalizeDouble(iMA_5M_current/iMA_5M_recent, Digits());
 
                 if(gradient_5M >= 1+10*Point()) { //Making sure gradient of MA's are positive
         			buying = true;
-                    Print("Buying");
-                }
+                    //Print("Buying,"," ","MA Gradient:",gradient_5M);
+                } else {/*Print("Trying to BUY but Gradient !> 10");*/}
+
     		} else {
     			buying = false;
     		}
@@ -123,14 +125,14 @@ void OnTick() {
         if (LWMAmovingAvg30M < SMAmovingAvg30M) {
             if(LWMAmovingAvg15M < SMAmovingAvg15M){
 
-                double iMA_5M_recent   = iMA(NULL,5,50,0,MODE_SMMA,PRICE_CLOSE,10);
-                double iMA_5M_current  = iMA(NULL,5,50,0,MODE_SMMA,PRICE_CLOSE,0);
+                double iMA_5M_recent   = iMA(NULL,PERIOD_M5,50,0,MODE_SMA,PRICE_CLOSE,10);
+                double iMA_5M_current  = iMA(NULL,PERIOD_M5,50,0,MODE_SMA,PRICE_CLOSE,0);
                 double gradient_5M     = NormalizeDouble(iMA_5M_recent/iMA_5M_current, Digits());
 
                 if(gradient_5M >= 1+10*Point()) { //Making sure gradient of MA's are negative
                     selling = true;
-                    Print("Selling");
-                }
+                    //Print("Selling,"," ","MA Gradient:",gradient_5M);
+                } else {/*Print("Trying to SELL but Gradient !> 10");*/}
             } else {
                 selling = false;
             }

@@ -13,7 +13,7 @@
 void Buy(
     double SMAmovingAvg5M,
     int stoplossVar,
-    int lotSize,
+    double lotSize,
     double &majorSwingHighPrices[],
     double &majorSwingHighBars[],
     double &minorSwingHighPrices[],
@@ -24,6 +24,8 @@ void Buy(
 
 ){
     double recentHigh;
+    int ticket;
+    int orders = OrdersTotal();
 
     if(minorSwingHighPrices[0]>majorSwingHighPrices[0]){ //Finding the highest recent price
         recentHigh = High[iHighest(NULL, 5, MODE_HIGH, minorSwingHighBars[0]+1, 0)];
@@ -56,7 +58,7 @@ void Buy(
 
                             //DO THE MAGIC THING!!!
                             bool isDoji = Doji(1);
-                            int orders = OrdersTotal();
+                            double UBB_takeprofit = NormalizeDouble(iBands(NULL,0,15,2,0,PRICE_CLOSE,MODE_UPPER,0), Digits()) - Bid;
 
                             if (isDoji) {
                                 if (High[0] > High[1]) {
@@ -75,15 +77,15 @@ void Buy(
                                             double risk = (minstoplevel + stoplossVar)*Point();
                                             double reward = risk*3;
                                             double stoploss = NormalizeDouble(Bid - risk, Digits()); //Turning pips into point size i.e 2 pips = 0.0002 on price axis
-                                            double takeprofit = NormalizeDouble(Ask + reward, Digits()); //Turning pips into point size i.e 2 pips = 0.0002 on price axis
+                                            //double takeprofit = NormalizeDouble(Bid + reward, Digits()); //Turning pips into point size i.e 2 pips = 0.0002 on price axis
 
                                             //Print("Current High:", High[0]," ","Ask:", Ask," ", "Buy:",Bid);
                                             //Print("Risk=",risk,"; ","Reward=",reward,"; ","SL=",stoploss,"; ","TP=",takeprofit, "; ","Lots=",lotSize);
-
-                                            int ticket = OrderSend(Symbol(), OP_BUY, lotSize, Ask, 3, stoploss, takeprofit,"My first order",0, 0, clrGreen);
+                                            RefreshRates();
+                                            ticket = OrderSend(Symbol(), OP_BUY, lotSize, Ask, 3, stoploss, NULL,"My first order",0, 0, clrGreen);
 
                                             if(ticket < 0) {
-                                                Print("OrderSend failed with error #",GetLastError());
+                                                Alert("OrderSend failed with error #",GetLastError());
                                             } else {
                                                 Print("OrderSend placed successfully");
                                             }
@@ -102,4 +104,19 @@ void Buy(
 
         } else {/*Print("minorSwingLowPrice !> Last");*/}
     } else {/*Print("Close !< recentHigh");*/}
+
+    //CLOSE BUY ORDER AT UPPER BOLLINGER BAND
+    double UBB_price = NormalizeDouble(iBands(NULL,0,15,2,0,PRICE_CLOSE,MODE_UPPER,0), Digits());
+    if (orders != 0) {
+        if (Bid == UBB_price) {
+
+            bool closeOrder = OrderClose(ticket, lotSize, Ask, 3, Red);
+
+            if(closeOrder = false) {
+                Alert("OrderClose failed with error #",GetLastError());
+            } else {
+                Print("OrderClose placed successfully");
+            }
+        }
+    }
 }
